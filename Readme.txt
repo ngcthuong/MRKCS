@@ -8,8 +8,8 @@
 
 The software reproduces the experiments published in the paper
 
- T. N. Canh, K. Q. Dinh and B. Jeon, “multi-scale/multi-resolution Kronecker compressive 
- imaging,�? Proc. of IEEE Inter. Conf. Image Process., pp. 2700 – 2704, Sep. 2015. 
+ T. N. Canh, K. Q. Dinh and B. Jeon, :Multi-scale/multi-resolution Kronecker compressive 
+ imaging," Proc. of IEEE Inter. Conf. Image Process., pp. 2700-2704, Sep. 2015. 
  
  DOI http://dx.doi.org/10.1109/ICIP.2015.7351293
 
@@ -46,7 +46,7 @@ Description
 The demo software reproduces the experiments published in the paper
 
  T. N. Canh, K. Q. Dinh and B. Jeon, Multi-scale/multi-resolution Kronecker compressive 
- imaging, Proc. of IEEE Inter. Conf. Image Process., pp. 2700 – 2704, Sep. 2015. 
+ imaging, Proc. of IEEE Inter. Conf. Image Process., pp. 2700 â€“ 2704, Sep. 2015. 
  
  DOI http://dx.doi.org/10.1109/ICIP.2015.7351293
 
