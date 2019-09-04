@@ -19,7 +19,7 @@ authors:               Thuong Nguyen Canh
 
 web page:              https://sites.google.com/site/ngcthuong/
 
-contact:               ngcthuong @ skku dot vn
+contact:               ngcthuong @ skku dot edu
 
 ------------------------------------------------------------------------------------------
 Copyright (c) 2016 Sungkyunkwan University.
